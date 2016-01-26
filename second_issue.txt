@@ -1,0 +1,3 @@
+A second file to train with commits. 
+
+http://plan.io/blog/post/130134121958/use-git-commit-messages-to-improve-your-planio
