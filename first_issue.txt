@@ -3,5 +3,8 @@ File created in training for github issues. And references in the commits.
 As explained here:
 http://plan.io/blog/post/130134121958/use-git-commit-messages-to-improve-your-planio
 
+Link to github issues explained.
+https://guides.github.com/features/issues/
+
 
 
