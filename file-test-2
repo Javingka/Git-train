@@ -1,0 +1,2 @@
+File to test
+$ git diff --name-status master..branchName
